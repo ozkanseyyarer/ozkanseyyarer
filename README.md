@@ -1,4 +1,4 @@
-[![MasterHead](https://images.velog.io/images/dev_jin/post/d076817b-6fa7-45ed-9758-88fa75eb29d8/android-for-developers.svg)
+![MasterHead](https://images.velog.io/images/dev_jin/post/d076817b-6fa7-45ed-9758-88fa75eb29d8/android-for-developers.svg)
 <h1 align="center">Hi 👋, I'm Özkan Seyyarer</h1>
 <h3 align="center">Mobile application developer</h3>
 
